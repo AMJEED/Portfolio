@@ -19,7 +19,7 @@ import boostrapIcon from "../../assets/bootstrap-icon.svg";
 export function Main() {
   return (
     <Container>
-      <Particles
+      {/* <Particles
         id="tsparticles"
         options={{
           "fullScreen": {
@@ -254,7 +254,7 @@ export function Main() {
             "size": "cover"
           }
         }}
-      />
+      /> */}
       <Hero></Hero>
       <About></About>
       <Project></Project>
